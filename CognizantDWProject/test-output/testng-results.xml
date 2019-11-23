@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="7" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="212352" started-at="2019-04-23T09:02:55Z" finished-at="2019-04-23T09:06:28Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="212352" started-at="2019-04-23T09:02:55Z" finished-at="2019-04-23T09:06:28Z">
+      <class name="FlipkartSearchProduct.SearchProductFlipkart">
+        <test-method status="PASS" signature="AddVariants(java.lang.String)[pri:0, instance:FlipkartSearchProduct.SearchProductFlipkart@685cb137]" name="AddVariants" duration-ms="38365" started-at="2019-04-23T09:02:56Z" data-provider="ReadExcel" finished-at="2019-04-23T09:03:35Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Paneer]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddVariants -->
+        <test-method status="PASS" signature="AddVariants(java.lang.String)[pri:0, instance:FlipkartSearchProduct.SearchProductFlipkart@685cb137]" name="AddVariants" duration-ms="24734" started-at="2019-04-23T09:03:35Z" data-provider="ReadExcel" finished-at="2019-04-23T09:03:59Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chocolate]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddVariants -->
+        <test-method status="PASS" signature="AddVariants(java.lang.String)[pri:0, instance:FlipkartSearchProduct.SearchProductFlipkart@685cb137]" name="AddVariants" duration-ms="31294" started-at="2019-04-23T09:03:59Z" data-provider="ReadExcel" finished-at="2019-04-23T09:04:31Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[biscuits]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddVariants -->
+        <test-method status="PASS" signature="AddVariants(java.lang.String)[pri:0, instance:FlipkartSearchProduct.SearchProductFlipkart@685cb137]" name="AddVariants" duration-ms="27792" started-at="2019-04-23T09:04:31Z" data-provider="ReadExcel" finished-at="2019-04-23T09:04:58Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[jchscsu9hsiuvhsjihjsvnjd]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddVariants -->
+        <test-method status="PASS" signature="AddVariants(java.lang.String)[pri:0, instance:FlipkartSearchProduct.SearchProductFlipkart@685cb137]" name="AddVariants" duration-ms="31945" started-at="2019-04-23T09:04:58Z" data-provider="ReadExcel" finished-at="2019-04-23T09:05:30Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[milk]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddVariants -->
+        <test-method status="PASS" signature="AddVariants(java.lang.String)[pri:0, instance:FlipkartSearchProduct.SearchProductFlipkart@685cb137]" name="AddVariants" duration-ms="28424" started-at="2019-04-23T09:05:30Z" data-provider="ReadExcel" finished-at="2019-04-23T09:05:59Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[sugar]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddVariants -->
+        <test-method status="PASS" signature="AddVariants(java.lang.String)[pri:0, instance:FlipkartSearchProduct.SearchProductFlipkart@685cb137]" name="AddVariants" duration-ms="29097" started-at="2019-04-23T09:05:59Z" data-provider="ReadExcel" finished-at="2019-04-23T09:06:28Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[hsdgdshdsvhvdchjdsbchdb]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddVariants -->
+      </class> <!-- FlipkartSearchProduct.SearchProductFlipkart -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
